@@ -1,6 +1,6 @@
 """
     Using list and random module.
-    
+
     First input list of name from user. find the input length.
     Generate randon number 0 and the last index.
     Pick out random person from list of names using the random choice.
